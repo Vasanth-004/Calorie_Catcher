@@ -67,8 +67,3 @@ Open [http://localhost:3000](http://localhost:3000).
 
 - `Backend/` - API, database models, authentication, and services.
 - `frontend/` - React pages, components, and styles.
-
-## Important
-
-- Never commit `.env` files or API keys.
-- Run `cd frontend && npm run build` to create a production build.
