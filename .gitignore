@@ -1,0 +1,18 @@
+.DS_Store
+.vscode/
+
+# Dependencies and generated output
+**/node_modules/
+**/build/
+**/coverage/
+
+# Local environment files
+**/.env
+**/.env.*
+!**/.env.example
+
+# Temporary uploads and logs
+Backend/uploads/
+Backend/tmp/
+Backend/temp/
+*.log

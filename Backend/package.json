@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Suchith04/Calorie_Catcher.git"
+    "url": "git+https://github.com/Vasanth-004/Calorie_Catcher.git"
   },
   "author": "Suchith",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Suchith04/Calorie_Catcher/issues"
+    "url": "https://github.com/Vasanth-004/Calorie_Catcher/issues"
   },
-  "homepage": "https://github.com/Suchith04/Calorie_Catcher#readme",
+  "homepage": "https://github.com/Vasanth-004/Calorie_Catcher#readme",
   "dependencies": {
     "@google/genai": "^1.31.0",
     "@google/generative-ai": "^0.24.1",
