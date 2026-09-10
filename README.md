@@ -28,28 +28,14 @@ Calorie Catcher is a web app that helps users track food, calories, exercise, sl
 - Google Gemini API key
 - Cloudinary account
 
-### 1. Configure the backend
-
-Create `Backend/.env` with your private values:
-
-```env
-Mongo_URI=mongodb://localhost:27017/CalorieCatcher
-Gemini_API=your_gemini_api_key
-CLOUDINARY_CLOUD_NAME=your_cloud_name
-CLOUDINARY_API_KEY=your_cloudinary_api_key
-CLOUDINARY_API_SECRET=your_cloudinary_api_secret
-JWT_SECRET=your_long_random_secret
-PORT=5000
-```
-
-### 2. Install dependencies
+### 1. Install dependencies
 
 ```bash
 cd Backend && npm install
 cd ../frontend && npm install
 ```
 
-### 3. Start the app
+### 2. Start the app
 
 Run the backend and frontend in separate terminals:
 
